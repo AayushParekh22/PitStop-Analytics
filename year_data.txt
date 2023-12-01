@@ -1,0 +1,168 @@
+--------------------2010 Driver Standings------------------------------------------------------------
+1-Sebastian Vettel         256       RBR Renault
+2-Fernando Alonso          252       Ferrari
+3-Mark Webber              242       RBR Renault
+4-Lewis Hamilton           240       McLaren Mercedes
+5-Jenson Button            214       McLaren Mercedes
+6-Felipe Massa             144       Ferrari
+7-Nico Rosberg             142       Mercedes
+8-Robert Kubica            136       Renault
+9-Michael Schumacher       72        Mercedes
+10-Rubens Barrichello       47        Williams Cosworth
+11-Adrian Sutil             47        Force India Mercedes
+12-Kamui Kobayashi          32        Sauber Ferrari
+13-Vitaly Petrov            27        Renault
+14-Nico Hulkenberg          22        Williams Cosworth
+15-Vitantonio Liuzzi        21        Force India Mercedes
+16-Sebastien Buemi          8         STR Ferrari
+17-Pedro de la Rosa         6         Sauber Ferrari
+18-Nick Heidfeld            6         Sauber Ferrari
+19-Jaime Alguersuari        5         STR Ferrari
+20-Heikki Kovalainen        0         Lotus Cosworth
+21-Jarno Trulli             0         Lotus Cosworth
+22-Karun Chandhok           0         HRT Cosworth
+23-Bruno Senna              0         HRT Cosworth
+24-Lucas di Grassi          0         Virgin Cosworth
+25-Timo Glock               0         Virgin Cosworth
+26-Sakon Yamamoto           0         HRT Cosworth
+27-Christian Klien          0         HRT Cosworth
+--------------------2011 Driver Standings------------------------------------------------------------
+1-Sebastian Vettel         392       Red Bull Racing Renault
+2-Jenson Button            270       McLaren Mercedes
+3-Mark Webber              258       Red Bull Racing Renault
+4-Fernando Alonso          257       Ferrari
+5-Lewis Hamilton           227       McLaren Mercedes
+6-Felipe Massa             118       Ferrari
+7-Nico Rosberg             89        Mercedes
+8-Michael Schumacher       76        Mercedes
+9-Adrian Sutil             42        Force India Mercedes
+10-Vitaly Petrov            37        Renault
+11-Nick Heidfeld            34        Renault
+12-Kamui Kobayashi          30        Sauber Ferrari
+13-Paul di Resta            27        Force India Mercedes
+14-Jaime Alguersuari        26        STR Ferrari
+15-Sebastien Buemi          15        STR Ferrari
+16-Sergio Perez             14        Sauber Ferrari
+17-Rubens Barrichello       4         Williams Cosworth
+18-Bruno Senna              2         Renault
+19-Pastor Maldonado         1         Williams Cosworth
+20-Pedro de la Rosa         0         Sauber Ferrari
+21-Jarno Trulli             0         Lotus Renault
+22-Heikki Kovalainen        0         Lotus Renault
+23-Vitantonio Liuzzi        0         HRT Cosworth
+24-Jerome d'Ambrosio        0         Virgin Cosworth
+25-Timo Glock               0         Virgin Cosworth
+26-Narain Karthikeyan       0         HRT Cosworth
+27-Daniel Ricciardo         0         HRT Cosworth
+28-Karun Chandhok           0         Lotus Renault
+--------------------2012 Driver Standings------------------------------------------------------------
+1-Sebastian Vettel         281       Red Bull Racing Renault
+2-Fernando Alonso          278       Ferrari
+3-Kimi Räikkönen           207       Lotus Renault
+4-Lewis Hamilton           190       McLaren Mercedes
+5-Jenson Button            188       McLaren Mercedes
+6-Mark Webber              179       Red Bull Racing Renault
+7-Felipe Massa             122       Ferrari
+8-Romain Grosjean          96        Lotus Renault
+9-Nico Rosberg             93        Mercedes
+10-Sergio Perez             66        Sauber Ferrari
+11-Nico Hulkenberg          63        Force India Mercedes
+12-Kamui Kobayashi          60        Sauber Ferrari
+13-Michael Schumacher       49        Mercedes
+14-Paul di Resta            46        Force India Mercedes
+15-Pastor Maldonado         45        Williams Renault
+16-Bruno Senna              31        Williams Renault
+17-Jean-Eric Vergne         16        STR Ferrari
+18-Daniel Ricciardo         10        STR Ferrari
+19-Vitaly Petrov            0         Caterham Renault
+20-Timo Glock               0         Marussia Cosworth
+21-Charles Pic              0         Marussia Cosworth
+22-Heikki Kovalainen        0         Caterham Renault
+23-Jerome d'Ambrosio        0         Lotus Renault
+24-Narain Karthikeyan       0         HRT Cosworth
+25-Pedro de la Rosa         0         HRT Cosworth
+--------------------2013 Driver Standings------------------------------------------------------------
+1-Sebastian Vettel         397       Red Bull Racing Renault
+2-Fernando Alonso          242       Ferrari
+3-Mark Webber              199       Red Bull Racing Renault
+4-Lewis Hamilton           189       Mercedes
+5-Kimi Räikkönen           183       Lotus Renault
+6-Nico Rosberg             171       Mercedes
+7-Romain Grosjean          132       Lotus Renault
+8-Felipe Massa             112       Ferrari
+9-Jenson Button            73        McLaren Mercedes
+10-Nico Hulkenberg          51        Sauber Ferrari
+11-Sergio Perez             49        McLaren Mercedes
+12-Paul di Resta            48        Force India Mercedes
+13-Adrian Sutil             29        Force India Mercedes
+14-Daniel Ricciardo         20        STR Ferrari
+15-Jean-Eric Vergne         13        STR Ferrari
+16-Esteban Gutierrez        6         Sauber Ferrari
+17-Valtteri  Bottas         4         Williams Renault
+18-Pastor Maldonado         1         Williams Renault
+19-Jules Bianchi            0         Marussia Cosworth
+20-Charles Pic              0         Caterham Renault
+21-Heikki Kovalainen        0         Lotus Renault
+22-Giedo van der Garde      0         Caterham Renault
+23-Max Chilton              0         Marussia Cosworth
+------------------------ Total points collected by drivers/teams during this period------------------------------
+Sebastian Vettel         1326.0
+Fernando Alonso          1029.0
+Mark Webber              878.0
+Lewis Hamilton           846.0
+Jenson Button            745.0
+Felipe Massa             496.0
+Nico Rosberg             495.0
+Kimi Räikkönen           390.0
+Romain Grosjean          228.0
+Michael Schumacher       197.0
+Robert Kubica            136.0
+Nico Hulkenberg          136.0
+Sergio Perez             129.0
+Kamui Kobayashi          122.0
+Paul di Resta            121.0
+Adrian Sutil             118.0
+Vitaly Petrov            64.0
+Rubens Barrichello       51.0
+Pastor Maldonado         47.0
+Nick Heidfeld            40.0
+Bruno Senna              33.0
+Jaime Alguersuari        31.0
+Daniel Ricciardo         30.0
+Jean-Eric Vergne         29.0
+Sebastien Buemi          23.0
+Vitantonio Liuzzi        21.0
+Pedro de la Rosa         6.0
+Esteban Gutierrez        6.0
+Valtteri  Bottas         4.0
+Heikki Kovalainen        0.0
+Jarno Trulli             0.0
+Karun Chandhok           0.0
+Lucas di Grassi          0.0
+Timo Glock               0.0
+Sakon Yamamoto           0.0
+Christian Klien          0.0
+Jerome d'Ambrosio        0.0
+Narain Karthikeyan       0.0
+Charles Pic              0.0
+Jules Bianchi            0.0
+Giedo van der Garde      0.0
+Max Chilton              0.0
+------------------------ Total points collected by drivers/teams during this period------------------------------
+Caterham Renault         0.0
+Ferrari                  1525.0
+Force India Mercedes     323.0
+HRT Cosworth             0.0
+Lotus Cosworth           0.0
+Lotus Renault            618.0
+Marussia Cosworth        0.0
+McLaren Mercedes         1451.0
+Mercedes                 881.0
+RBR Renault              498.0
+Red Bull Racing Renault  1706.0
+Renault                  236.0
+STR Ferrari              113.0
+Sauber Ferrari           271.0
+Virgin Cosworth          0.0
+Williams Cosworth        74.0
+Williams Renault         81.0
