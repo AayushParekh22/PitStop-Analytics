@@ -1,7 +1,7 @@
 # PitStop Analytics: Formula 1 Data Insights
 
 ## Introduction
-Welcome to the F1 Data Explorer, a comprehensive toolkit for Formula 1 enthusiasts and data analysts. This project consists of a set of Python scripts designed to scrape, analyze, and present data from the world of Formula 1 racing. Dive into race results, driver statistics, and team performances across various seasons with ease.
+Welcome to PitStop Analytics, a comprehensive toolkit for Formula 1 enthusiasts and data analysts. This project consists of a set of Python scripts designed to scrape, analyze, and present data from the world of Formula 1 racing. Dive into race results, driver statistics, and team performances across various seasons with ease.
 
 ## Features
 - **Data Scraping**: Automated scripts to fetch and store F1 race information from the official Formula 1 website.
