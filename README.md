@@ -28,14 +28,14 @@ Welcome to PitStop Analytics, a comprehensive toolkit for Formula 1 enthusiasts 
 5. Execute `personal_analysis.py` to find and analyze specific driver statistics based on name similarity.
 
 ## Contributing
-Contributions to the F1 Data Explorer are welcome. Whether it's refining the scraping algorithms, expanding the data analysis capabilities, or improving documentation, your input is valuable.
+Contributions to PitStop Analytics are welcome. Whether it's refining the scraping algorithms, expanding the data analysis capabilities, or improving documentation, your input is valuable.
 
 ## Feedback
 If you encounter any issues or have suggestions, please open an issue in the GitHub repository.
 
 ## License
-The F1 Data Explorer is open-sourced under the MIT license.
+PitStop Analytics is open-sourced under the MIT license.
 
 ---
 
-Embark on your journey through the thrilling races and fascinating data of Formula 1 with the F1 Data Explorer!
+Embark on your journey through the thrilling races and fascinating data of Formula 1 with the PitStop Analytics!
